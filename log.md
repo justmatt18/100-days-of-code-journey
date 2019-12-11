@@ -16,3 +16,16 @@
   **Progress:** Redesign my Home, Category and About Page. Remove previous full page design to a transparent image background with a transparent background color.
 
   **Thoughts:** It's really helpful to have some website ideas coming from other famous or well-known sites, to get design inspirations. Also to help myself improve in designing a webpage. 
+
+  Day 3: December 10, 2019
+
+  **Progress:** Working on Wordpress now and it's been awhile when I had worked and opened its files. Removing some white spaces on a svelte component on it. 
+
+  **Thoughts:** I little bit confused about it because it has a svelte component on a wordpress site. And I needed to check its file and see the css on it.
+
+
+  Day 4: December 11, 2019
+
+  **Progress:** Got a little detour. I learn a little bit about digital ocean and how to access it using ssh locally. Checking of packages and security issues and even checking system status. Will focus on front-end  stuff tomorrow. 
+
+  **Thoughts:** Thought about importance of checking security issues on a server maybe atleast twice a week. Also if there is security problems and updates needed. Checking memory capacity if needs an upgrade. 
