@@ -29,3 +29,9 @@
   **Progress:** Got a little detour. I learn a little bit about digital ocean and how to access it using ssh locally. Checking of packages and security issues and even checking system status. Will focus on front-end  stuff tomorrow. 
 
   **Thoughts:** Thought about importance of checking security issues on a server maybe atleast twice a week. Also if there is security problems and updates needed. Checking memory capacity if needs an upgrade. 
+
+  Day 5: December 12, 2019 
+
+  **Progress:** Exploring Vuetify and I love how easy the docs are. Made a UI to try it out. I guess I'll be switching from bootstrap-vue to vuetify 😉. 
+
+  **Thoughts:** I think vuetify has similarities in quasar because of its ability to create material design components. After finishing my ongoing project, I'll be switching to vuetify.
